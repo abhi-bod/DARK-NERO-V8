@@ -18,7 +18,7 @@ global.ANTI_BADWORD = 'true' // true of false
 global.AUTO_REACT = 'false' // true of false
 global.INBOX_BLOCK_MSG ='BLOCK !!!'
 global.INBOX_BLOCK = 'off' //inbox block
-global.alivemsg = 'abhi-boy
+global.alivemsg = 'abhi-sar
 global.alivepic = 'https://i.ibb.co/zFYBPcQ/IMG-20230226-WA0115.jpg '
 global.owner = ['7356952058'] //ur owner number
 global.ownername = "abhi" //ur owner name
@@ -36,7 +36,7 @@ global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme u
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://www.darknero.ga/' //script link
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Dark Nero By" //ur sticker watermark packname
+global.packname = "abhi" //ur sticker watermark packname
 global.author = "Dark Nero Creating By Cyber Yakuza Team" //ur sticker watermark author
 global.wm = "Dark Bot Inc." //ur watermark
 
@@ -55,7 +55,7 @@ global.mess = {
     group: 'Features Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This feature could be used by bot only',
-    wait: 'ᴘʟᴇᴀꜱᴇ ᴡɪᴛʜ...',
+    wait: 'abhiiii...',
     linkm: 'Where is the link?',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
