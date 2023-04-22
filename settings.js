@@ -37,7 +37,7 @@ global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://www.darknero.ga/' //script link
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "abhi" //ur sticker watermark packname
-global.author = "Dark Nero Creating By Cyber Yakuza Team" //ur sticker watermark author
+global.author = "ABHI" //ur sticker watermark author
 global.wm = "Dark Bot Inc." //ur watermark
 
 // Other
